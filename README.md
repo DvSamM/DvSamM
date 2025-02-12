@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **MERN stack developer** with a k
 
 ### 📫 How to reach me  
 - **Email**: samuelsam91e@gmail.com
-- **Portfolio**: (https://dvsam.framer.website)  
+- **Portfolio**: (https://sam-s-portfolio-roan.vercel.app/)  
 
 ### ⚡ Fun fact  
 I love solving complex problems, whether it's a tricky bug in code or figuring out the best way to organize a pizza topping hierarchy!  
